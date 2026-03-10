@@ -53,3 +53,5 @@
   - [Troubleshooting EKS clusters](https://docs.aws.amazon.com/eks/latest/userguide/troubleshooting.html)
   - [Dynamic admission control in kubernetes, which makes Fargate scheduling possible](https://kubernetes.io/docs/reference/access-authn-authz/extensible-admission-controllers/)
   - [EKS update kubeconfig](https://docs.aws.amazon.com/cli/latest/reference/eks/update-kubeconfig.html)
+  - [eksctl docs](https://docs.aws.amazon.com/eks/latest/eksctl/what-is-eksctl.html)
+  - [eksctl repo](https://github.com/eksctl-io/eksctl)
