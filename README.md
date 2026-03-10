@@ -14,10 +14,12 @@
 - [Strangler fig pattern using AWS services - in spanish](https://aws.amazon.com/es/blogs/aws-spanish/patron-strangler-fig-para-cargas-modernas/)
 - [CNCF landscape](https://landscape.cncf.io/)
 - Kubernetes.io documentation about kubernetes resources
+  - [Cluster architecture](https://kubernetes.io/docs/concepts/architecture/)
   - [Pod](https://kubernetes.io/docs/concepts/workloads/pods/)
   - [Services](https://kubernetes.io/docs/concepts/services-networking/service/)
+  - [Deployments](https://kubernetes.io/docs/concepts/workloads/controllers/deployment/)
 - Installation
   - [Kubernetes the hard way](https://github.com/kelseyhightower/kubernetes-the-hard-way)
   - [Installing kubernetes in a local environment - using for example, kind and minikube](https://kubernetes.io/docs/setup/learning-environment/)
   - [Installation in a production-grade environment, using tools such as kubeadm](https://kubernetes.io/docs/setup/production-environment/tools/)
-
+- [Managing an etcd cluster](https://kubernetes.io/docs/tasks/administer-cluster/configure-upgrade-etcd/)
