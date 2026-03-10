@@ -55,3 +55,6 @@
   - [EKS update kubeconfig](https://docs.aws.amazon.com/cli/latest/reference/eks/update-kubeconfig.html)
   - [eksctl docs](https://docs.aws.amazon.com/eks/latest/eksctl/what-is-eksctl.html)
   - [eksctl repo](https://github.com/eksctl-io/eksctl)
+  - [Extended support on EKS](https://docs.aws.amazon.com/eks/latest/userguide/kubernetes-versions.html#extended-support-faqs)
+  - [Dashboard for looking at extended support costs](https://docs.aws.amazon.com/guidance/latest/cloud-intelligence-dashboards/extended-support.html)
+  - [EKS auto-mode announcement](https://aws.amazon.com/blogs/aws/streamline-kubernetes-cluster-management-with-new-amazon-eks-auto-mode)
