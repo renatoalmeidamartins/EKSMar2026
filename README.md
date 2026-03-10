@@ -12,3 +12,4 @@
   - [Break a Monolithic Application into Microservices with AWS Copilot, Amazon ECS, Docker, and AWS Fargate](https://aws.amazon.com/tutorials/break-monolith-app-microservices-ecs-docker-ec2/)
 - [Strangler fig pattern](https://martinfowler.com/bliki/StranglerFigApplication.html)
 - [Strangler fig pattern using AWS services - in spanish](https://aws.amazon.com/es/blogs/aws-spanish/patron-strangler-fig-para-cargas-modernas/)
+- [CNCF landscape](https://landscape.cncf.io/)
