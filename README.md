@@ -37,3 +37,18 @@
   - [Installing kubernetes in a local environment - using for example, kind and minikube](https://kubernetes.io/docs/setup/learning-environment/)
   - [Installation in a production-grade environment, using tools such as kubeadm](https://kubernetes.io/docs/setup/production-environment/tools/)
 - [Managing an etcd cluster](https://kubernetes.io/docs/tasks/administer-cluster/configure-upgrade-etcd/)
+- EKS
+  - [EKS anywhere](https://anywhere.eks.amazonaws.com/)
+  - [Registering kubernetes clusters hosted on other cloud providers](https://docs.aws.amazon.com/cli/latest/reference/eks/register-cluster.html)
+  - [EKS dashboard, showing all your clusters](https://aws.amazon.com/blogs/containers/deep-dive-amazon-eks-dashboard-for-visibility-into-multi-cluster-operations-and-governance/)
+  - [Current way to grant access to EKS clusters - access entries](https://docs.aws.amazon.com/eks/latest/userguide/access-entries.html)
+  - [Blog post comparing aws-auth with access entries](https://aws.amazon.com/blogs/containers/a-deep-dive-into-simplified-amazon-eks-access-management-controls/)
+  - [auws-auth ConfigMap - deprecated](https://docs.aws.amazon.com/eks/latest/userguide/auth-configmap.html)
+  - EKS compute options
+    - [Self-managed nodes, where you are responsible for the lifecycle of the EC2 instance](https://docs.aws.amazon.com/eks/latest/userguide/worker.html)
+    - [Managed node groups](https://docs.aws.amazon.com/eks/latest/userguide/worker.html)
+    - [Customizing AMIs for managed node groups](https://aws.amazon.com/blogs/containers/introducing-launch-template-and-custom-ami-support-in-amazon-eks-managed-node-groups/)
+    - [Fargate](https://docs.aws.amazon.com/eks/latest/userguide/fargate.html)
+  - [Troubleshooting EKS clusters](https://docs.aws.amazon.com/eks/latest/userguide/troubleshooting.html)
+  - [Dynamic admission control in kubernetes, which makes Fargate scheduling possible](https://kubernetes.io/docs/reference/access-authn-authz/extensible-admission-controllers/)
+  - [EKS update kubeconfig](https://docs.aws.amazon.com/cli/latest/reference/eks/update-kubeconfig.html)
