@@ -10,3 +10,5 @@
   - [Break a Monolithic Application Into Microservices With AWS Migration Hub Refactor Spaces, AWS Copilot](https://builder.aws.com/content/2gQj04UGQukaT4nSmJo0wmYTRBA/break-a-monolithic-application-into-microservices-with-aws-migration-hub-refactor-spaces-aws-copilot)
   - [Breaking down monolith workflows: Modularizing AWS Step Functions workflows](https://aws.amazon.com/blogs/compute/breaking-down-monolith-workflows-modularizing-aws-step-functions-workflows/)
   - [Break a Monolithic Application into Microservices with AWS Copilot, Amazon ECS, Docker, and AWS Fargate](https://aws.amazon.com/tutorials/break-monolith-app-microservices-ecs-docker-ec2/)
+- [Strangler fig pattern](https://martinfowler.com/bliki/StranglerFigApplication.html)
+- [Strangler fig pattern using AWS services - in spanish](https://aws.amazon.com/es/blogs/aws-spanish/patron-strangler-fig-para-cargas-modernas/)
