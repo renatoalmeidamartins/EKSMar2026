@@ -20,6 +20,7 @@
   - [Pod](https://kubernetes.io/docs/concepts/workloads/pods/)
   - [Services](https://kubernetes.io/docs/concepts/services-networking/service/)
   - [Deployments](https://kubernetes.io/docs/concepts/workloads/controllers/deployment/)
+  - [kubectl cheat sheet](https://kubernetes.io/docs/reference/kubectl/quick-reference/)
 - Installation
   - [Kubernetes the hard way](https://github.com/kelseyhightower/kubernetes-the-hard-way)
   - [Installing kubernetes in a local environment - using for example, kind and minikube](https://kubernetes.io/docs/setup/learning-environment/)
