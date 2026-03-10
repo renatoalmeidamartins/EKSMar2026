@@ -70,3 +70,7 @@
   - [Version skew policy](https://kubernetes.io/releases/version-skew-policy/)
   - [Semantic versioning](https://semver.org/)
   - [AWS instructions on how to upgrade EKS](https://docs.aws.amazon.com/eks/latest/userguide/update-cluster.html)
+  - [Helm CHart guide](https://helm.sh/docs/topics/charts)
+  - [Helm CLI commands](https://helm.sh/docs/helm/)
+  - [Artifcat hub, a massive "registry" of Helm charts](https://artifacthub.io/)
+  - [ECR gallery, hosting thousands of container images - equivalent to Docker hub](https://gallery.ecr.aws/)
