@@ -15,6 +15,8 @@
 - [CNCF landscape](https://landscape.cncf.io/)
 - Kubernetes.io documentation about kubernetes resources
   - [Cluster architecture](https://kubernetes.io/docs/concepts/architecture/)
+  - [Taints and tolerations](https://kubernetes.io/docs/concepts/scheduling-eviction/taint-and-toleration/)
+  - [Affinity and anti-affinity](https://kubernetes.io/docs/concepts/scheduling-eviction/assign-pod-node/)
   - [Pod](https://kubernetes.io/docs/concepts/workloads/pods/)
   - [Services](https://kubernetes.io/docs/concepts/services-networking/service/)
   - [Deployments](https://kubernetes.io/docs/concepts/workloads/controllers/deployment/)
