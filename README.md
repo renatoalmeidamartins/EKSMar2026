@@ -5,3 +5,4 @@
 - Full doc with support is [here](myClass%20Classroom%20Training%20Learner%20Guide.pdf)
 
 ## Class links
+- [12 factor app](https://12factor.net/)
