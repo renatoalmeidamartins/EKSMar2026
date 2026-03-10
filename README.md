@@ -74,3 +74,4 @@
   - [Helm CLI commands](https://helm.sh/docs/helm/)
   - [Artifcat hub, a massive "registry" of Helm charts](https://artifacthub.io/)
   - [ECR gallery, hosting thousands of container images - equivalent to Docker hub](https://gallery.ecr.aws/)
+  - [Announcement of ECR public gallery, due to DOcker imposing limits on anonymous pull back in late 2020](https://aws.amazon.com/blogs/containers/advice-for-customers-dealing-with-docker-hub-rate-limits-and-a-coming-soon-announcement/)
