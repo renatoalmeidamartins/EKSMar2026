@@ -49,6 +49,7 @@
     - [Self-managed nodes, where you are responsible for the lifecycle of the EC2 instance](https://docs.aws.amazon.com/eks/latest/userguide/worker.html)
     - [Managed node groups](https://docs.aws.amazon.com/eks/latest/userguide/worker.html)
     - [Customizing AMIs for managed node groups](https://aws.amazon.com/blogs/containers/introducing-launch-template-and-custom-ami-support-in-amazon-eks-managed-node-groups/)
+    - [Customize your EKS AMI](https://docs.aws.amazon.com/eks/latest/userguide/eks-ami-build-scripts.html)
     - [Fargate](https://docs.aws.amazon.com/eks/latest/userguide/fargate.html)
   - [Troubleshooting EKS clusters](https://docs.aws.amazon.com/eks/latest/userguide/troubleshooting.html)
   - [Dynamic admission control in kubernetes, which makes Fargate scheduling possible](https://kubernetes.io/docs/reference/access-authn-authz/extensible-admission-controllers/)
