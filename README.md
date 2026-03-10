@@ -68,3 +68,4 @@
   - [EKS support lifecycle](https://docs.aws.amazon.com/eks/latest/userguide/kubernetes-versions.html)
   - EKS lifecycle follows the same pattern of [kubernetes releases](https://kubernetes.io/releases/)
   - [Version skew policy](https://kubernetes.io/releases/version-skew-policy/)
+  - [Semantic versioning](https://semver.org/)
