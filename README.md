@@ -28,6 +28,9 @@
   - [kubectl cheat sheet](https://kubernetes.io/docs/reference/kubectl/quick-reference/)
   - [ConfigMap](https://kubernetes.io/es/docs/concepts/configuration/configmap/)
   - [Secrets](https://kubernetes.io/docs/concepts/configuration/secret/)
+  - [aoi-resources](https://kubernetes.io/docs/reference/kubectl/generated/kubectl_api-resources/)
+  - [Custom Resources - CRD](https://kubernetes.io/docs/concepts/extend-kubernetes/api-extension/custom-resources/)
+  - [Namespaces](https://kubernetes.io/docs/concepts/overview/working-with-objects/namespaces/)
   - [Getting a shell to a running pod](https://kubernetes.io/docs/tasks/debug/debug-application/get-shell-running-container/)
 - Installation
   - [Kubernetes the hard way](https://github.com/kelseyhightower/kubernetes-the-hard-way)
