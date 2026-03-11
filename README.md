@@ -99,3 +99,9 @@
  - [eksctl instance selector](https://docs.aws.amazon.com/eks/latest/eksctl/instance-selector.html)
  - [Topology spread constraints](https://kubernetes.io/docs/concepts/scheduling-eviction/topology-spread-constraints/)
  - [Karpenter scheduling](https://karpenter.sh/docs/concepts/scheduling/)
+- GitOps, as defined by:
+  - [Red Hat](https://www.redhat.com/en/topics/devops/what-is-gitops)
+  - [CNCF](https://glossary.cncf.io/gitops/)
+  - [Gitlab](https://about.gitlab.com/topics/gitops/)
+- [Argo CD concepts](https://argo-cd.readthedocs.io/en/stable/core_concepts/)
+- [Weave GitOps](https://docs.gitops.weaveworks.org/docs/intro-weave-gitops/)
