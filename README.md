@@ -5,6 +5,12 @@
 - Full doc with support is [here](myClass%20Classroom%20Training%20Learner%20Guide.pdf)
 
 # Class links
+
+## Top-level links
+- [EKS best practices](https://docs.aws.amazon.com/eks/latest/best-practices/introduction.html)
+- [Troubleshooting EKS clusters](https://docs.aws.amazon.com/eks/latest/userguide/troubleshooting.html)
+  
+
 ## Day 1
 - [12 factor app](https://12factor.net/)
 - Breaking down monolyths, some examples:
@@ -53,7 +59,6 @@
     - [Fargate](https://docs.aws.amazon.com/eks/latest/userguide/fargate.html)
     - [BottleRocket repo](https://github.com/bottlerocket-os)
     - [Using a Bottlerocket AMI with Amazon EKS](https://github.com/bottlerocket-os/bottlerocket/blob/develop/QUICKSTART-EKS.md)
-  - [Troubleshooting EKS clusters](https://docs.aws.amazon.com/eks/latest/userguide/troubleshooting.html)
   - [Dynamic admission control in kubernetes, which makes Fargate scheduling possible](https://kubernetes.io/docs/reference/access-authn-authz/extensible-admission-controllers/)
   - [EKS update kubeconfig](https://docs.aws.amazon.com/cli/latest/reference/eks/update-kubeconfig.html)
   - [eksctl docs](https://docs.aws.amazon.com/eks/latest/eksctl/what-is-eksctl.html)
