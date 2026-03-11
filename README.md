@@ -96,3 +96,6 @@
   - [Karpenter](https://github.com/kubernetes-sigs/karpenter/tree/main)
   - [Karpenter documentation](https://karpenter.sh/docs/)
   - [Keda - Kubernetes event-drive autoscaler](https://keda.sh/)
+ - [eksctl instance selector](https://docs.aws.amazon.com/eks/latest/eksctl/instance-selector.html)
+ - [Topology spread constraints](https://kubernetes.io/docs/concepts/scheduling-eviction/topology-spread-constraints/)
+ - [Karpenter scheduling](https://karpenter.sh/docs/concepts/scheduling/)
