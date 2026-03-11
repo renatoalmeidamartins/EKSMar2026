@@ -111,3 +111,5 @@
 - [Security groups for pods](https://docs.aws.amazon.com/eks/latest/userguide/sg-pods-example-deployment.html)
 - [Since the end of 2020, customizing the address ranges for services is supported in EKS](https://aws.amazon.com/about-aws/whats-new/2020/10/amazon-eks-supports-configurable-kubernetes-service-ip-address-range/)
 - [Using the ``nodeport`` attribute, one can determine the port exposed by the NodePort servicey type](https://kubernetes.io/docs/concepts/services-networking/service/#nodeport-custom-port)
+- [AWS Load Balancer controller](https://kubernetes-sigs.github.io/aws-load-balancer-controller/latest/)
+- [Gateway, the next generation of Ingress controllers](https://gateway-api.sigs.k8s.io/guides/getting-started/simple-gateway/)
