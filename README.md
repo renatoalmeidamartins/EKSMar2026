@@ -113,3 +113,8 @@
 - [Using the ``nodeport`` attribute, one can determine the port exposed by the NodePort servicey type](https://kubernetes.io/docs/concepts/services-networking/service/#nodeport-custom-port)
 - [AWS Load Balancer controller](https://kubernetes-sigs.github.io/aws-load-balancer-controller/latest/)
 - [Gateway, the next generation of Ingress controllers](https://gateway-api.sigs.k8s.io/guides/getting-started/simple-gateway/)
+- [AWS moves away from Elastic into OpenSearch](https://aws.amazon.com/blogs/opensource/stepping-up-for-a-truly-open-source-elasticsearch/)
+- [AWS moves away from Redis into Valkey](https://aws.amazon.com/blogs/opensource/why-aws-supports-valkey/)
+- [X-Ray service being deprecated, switching to OpenTelemetry](https://docs.aws.amazon.com/xray/latest/devguide/xray-sdk-migration.html)
+- [Logging with Fargate](https://docs.aws.amazon.com/eks/latest/userguide/fargate-logging.html). It uses Firelens, which runs fluentbit as a sidecar
+- 
