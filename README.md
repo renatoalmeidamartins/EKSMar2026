@@ -127,3 +127,4 @@
   - [EBS CSI](https://github.com/kubernetes-sigs/aws-ebs-csi-driver?tab=readme-ov-file)
   - [EBS CSI storageclass parameters](https://github.com/kubernetes-sigs/aws-ebs-csi-driver/blob/master/docs/parameters.md)
 - [EBS Volume types](https://docs.aws.amazon.com/ebs/latest/userguide/ebs-volume-types.html)
+- [EFS CSI driver](https://github.com/kubernetes-sigs/aws-efs-csi-driver)
