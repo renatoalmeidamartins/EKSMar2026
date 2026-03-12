@@ -9,7 +9,12 @@
 ## Top-level links
 - [EKS best practices](https://docs.aws.amazon.com/eks/latest/best-practices/introduction.html)
 - [Troubleshooting EKS clusters](https://docs.aws.amazon.com/eks/latest/userguide/troubleshooting.html)
-  
+
+## Lab fix
+- When we were running the class, the lab version was outdated. To make lab 5 work, in the line that changes the images for the deployments, this line<bbr>
+``kubectl set image deployment/prodcatalog prodcatalog=public.ecr.aws/jmnlab/eks-workshop-demo/product_catalog:3.6 -n workshop``<br>
+should not be used. It should instead be replaced with this one:<br>
+''kubectl set image deployment/prodcatalog prodcatalog=$ACCOUNT_ID.dkr.ecr.$AWS_REGION.amazonaws.com/eks-workshop-demo/product_catalog:1.0 -n workshop''
 
 ## Day 1
 - [12 factor app](https://12factor.net/)
@@ -133,3 +138,4 @@
 - [EBS multi-attach announcement, back in Feb 2020](https://aws.amazon.com/blogs/aws/new-multi-attach-for-provisioned-iops-io1-amazon-ebs-volumes/)
 - [Secrets storte CSI driver](https://secrets-store-csi-driver.sigs.k8s.io/concepts.html#provider-for-the-secrets-store-csi-driver)
 - [Secrets manager secret rotation lambda examples](https://docs.aws.amazon.com/secretsmanager/latest/userguide/reference_available-rotation-templates.html)
+
