@@ -35,7 +35,7 @@
   - [kubectl cheat sheet](https://kubernetes.io/docs/reference/kubectl/quick-reference/)
   - [ConfigMap](https://kubernetes.io/es/docs/concepts/configuration/configmap/)
   - [Secrets](https://kubernetes.io/docs/concepts/configuration/secret/)
-  - [aoi-resources](https://kubernetes.io/docs/reference/kubectl/generated/kubectl_api-resources/)
+  - [api-resources](https://kubernetes.io/docs/reference/kubectl/generated/kubectl_api-resources/)
   - [Custom Resources - CRD](https://kubernetes.io/docs/concepts/extend-kubernetes/api-extension/custom-resources/)
   - [Namespaces](https://kubernetes.io/docs/concepts/overview/working-with-objects/namespaces/)
   - [Getting a shell to a running pod](https://kubernetes.io/docs/tasks/debug/debug-application/get-shell-running-container/)
@@ -79,7 +79,7 @@
   - [Helm CLI commands](https://helm.sh/docs/helm/)
   - [Artifcat hub, a massive "registry" of Helm charts](https://artifacthub.io/)
   - [ECR gallery, hosting thousands of container images - equivalent to Docker hub](https://gallery.ecr.aws/)
-  - [Announcement of ECR public gallery, due to DOcker imposing limits on anonymous pull back in late 2020](https://aws.amazon.com/blogs/containers/advice-for-customers-dealing-with-docker-hub-rate-limits-and-a-coming-soon-announcement/)
+  - [Announcement of ECR public gallery, due to Docker imposing limits on anonymous pull back in late 2020](https://aws.amazon.com/blogs/containers/advice-for-customers-dealing-with-docker-hub-rate-limits-and-a-coming-soon-announcement/)
 
 ## Day 2
 - [AutoScaling groups in EC2](https://docs.aws.amazon.com/autoscaling/ec2/userguide/auto-scaling-groups.html)
