@@ -106,7 +106,6 @@
 - [Argo CD concepts](https://argo-cd.readthedocs.io/en/stable/core_concepts/)
 - [Weave GitOps](https://docs.gitops.weaveworks.org/docs/intro-weave-gitops/)
 - [Services defined in Kubernetes.io](https://kubernetes.io/docs/concepts/services-networking/service/#publishing-services-service-types)
-  - 
 - [CNI - Container network interface](https://github.com/containernetworking/cni)
 - [VPC CNI](https://github.com/aws/amazon-vpc-cni-k8s)
 - [NetworkPolicy](https://kubernetes.io/docs/concepts/services-networking/network-policies/)
