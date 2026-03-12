@@ -14,6 +14,7 @@
 - When we were running the class, the lab version was outdated. To make lab 5 work, in the line that changes the images for the deployments, this line<br>
 ``kubectl set image deployment/prodcatalog prodcatalog=public.ecr.aws/jmnlab/eks-workshop-demo/product_catalog:3.6 -n workshop``<br>should not be used. It should instead be replaced with this one:<br>
 ``kubectl set image deployment/prodcatalog prodcatalog=$ACCOUNT_ID.dkr.ecr.$AWS_REGION.amazonaws.com/eks-workshop-demo/product_catalog:1.0 -n workshop``
+- The version of the lab will be update to fix that, after the class finishes.
 
 ## Day 1
 - [12 factor app](https://12factor.net/)
