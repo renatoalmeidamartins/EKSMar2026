@@ -148,3 +148,4 @@
   - [Access entries, which replaces the aws-auth ConfigMap](https://docs.aws.amazon.com/eks/latest/userguide/access-entries.html)
   - [Deep dive into access management](https://aws.amazon.com/blogs/containers/a-deep-dive-into-simplified-amazon-eks-access-management-controls/)
 - [IAM policy generator](https://awspolicygen.s3.amazonaws.com/policygen.html)
+- [Using EKS Pod identity](https://aws.amazon.com/blogs/containers/amazon-eks-pod-identity-a-new-way-for-applications-on-eks-to-obtain-iam-credentials/)
