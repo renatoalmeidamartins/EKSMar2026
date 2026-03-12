@@ -131,3 +131,5 @@
 - [EBS multi-attach](https://docs.aws.amazon.com/ebs/latest/userguide/ebs-volumes-multi.html) allows specific types of EBS volumes to be mounted to multiple hosts. Notice the need for a clustered file system to avoid data corruption.
 - [EBS multi-attach in use in EKS](https://repost.aws/knowledge-center/eks-multi-attach-volumes)
 - [EBS multi-attach announcement, back in Feb 2020](https://aws.amazon.com/blogs/aws/new-multi-attach-for-provisioned-iops-io1-amazon-ebs-volumes/)
+- [Secrets storte CSI driver](https://secrets-store-csi-driver.sigs.k8s.io/concepts.html#provider-for-the-secrets-store-csi-driver)
+- [Secrets manager secret rotation lambda examples](https://docs.aws.amazon.com/secretsmanager/latest/userguide/reference_available-rotation-templates.html)
