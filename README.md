@@ -126,3 +126,4 @@
 - [CSI - Container Storage Interface](https://kubernetes.io/blog/2019/01/15/container-storage-interface-ga/)
   - [EBS CSI](https://github.com/kubernetes-sigs/aws-ebs-csi-driver?tab=readme-ov-file)
   - [EBS CSI storageclass parameters](https://github.com/kubernetes-sigs/aws-ebs-csi-driver/blob/master/docs/parameters.md)
+- [EBS Volume types](https://docs.aws.amazon.com/ebs/latest/userguide/ebs-volume-types.html)
