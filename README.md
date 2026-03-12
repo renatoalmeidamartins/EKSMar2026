@@ -121,3 +121,8 @@
 ## Day 3 
 - [Operator pattern, useful for defining custom resources](https://kubernetes.io/docs/concepts/extend-kubernetes/operator/)
 - [The cathedral and the bazaar, amazing book telling why open source is so interesting](https://en.wikipedia.org/wiki/The_Cathedral_and_the_Bazaar)
+- [Volumes](https://kubernetes.io/docs/concepts/storage/volumes/)
+- [Storage Classes](https://kubernetes.io/docs/concepts/storage/storage-classes/)
+- [CSI - Container Storage Interface](https://kubernetes.io/blog/2019/01/15/container-storage-interface-ga/)
+  - [EBS CSI](https://github.com/kubernetes-sigs/aws-ebs-csi-driver?tab=readme-ov-file)
+  - [EBS CSI storageclass parameters](https://github.com/kubernetes-sigs/aws-ebs-csi-driver/blob/master/docs/parameters.md)
