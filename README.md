@@ -120,3 +120,4 @@
 - [Logging with Fargate](https://docs.aws.amazon.com/eks/latest/userguide/fargate-logging.html). It uses Firelens, which runs fluentbit as a sidecar
 ## Day 3 
 - [Operator pattern, useful for defining custom resources](https://kubernetes.io/docs/concepts/extend-kubernetes/operator/)
+- [The cathedral and the bazaar, amazing book telling why open source is so interesting](https://en.wikipedia.org/wiki/The_Cathedral_and_the_Bazaar)
