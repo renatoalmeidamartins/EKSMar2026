@@ -141,5 +141,10 @@
 - [EKS protection through Guard Duty announcement](https://aws.amazon.com/about-aws/whats-new/2022/01/amazon-guardduty-elastic-kubernetes-service-clusters/)
 - [Documentation for GuardDuty EKS Protection](https://docs.aws.amazon.com/guardduty/latest/ug/kubernetes-protection.html)
 - [Kubernetes service accounts](https://kubernetes.io/docs/concepts/security/service-accounts/)
-- 
-
+- Authenticating to a cluster
+  - [aws-auth ConfigMap](https://docs.aws.amazon.com/eks/latest/userguide/auth-configmap.html)
+  - [aws eks get-token command](https://docs.aws.amazon.com/cli/latest/reference/eks/get-token.html)
+  - [Using external OIDC providers to authenticate to the cluster](https://docs.aws.amazon.com/eks/latest/userguide/authenticate-oidc-identity-provider.html)
+  - [Access entries, which replaces the aws-auth ConfigMap](https://docs.aws.amazon.com/eks/latest/userguide/access-entries.html)
+  - [Deep dive into access management](https://aws.amazon.com/blogs/containers/a-deep-dive-into-simplified-amazon-eks-access-management-controls/)
+- [IAM policy generator](https://awspolicygen.s3.amazonaws.com/policygen.html)
