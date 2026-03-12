@@ -138,4 +138,8 @@
 - [EBS multi-attach announcement, back in Feb 2020](https://aws.amazon.com/blogs/aws/new-multi-attach-for-provisioned-iops-io1-amazon-ebs-volumes/)
 - [Secrets storte CSI driver](https://secrets-store-csi-driver.sigs.k8s.io/concepts.html#provider-for-the-secrets-store-csi-driver)
 - [Secrets manager secret rotation lambda examples](https://docs.aws.amazon.com/secretsmanager/latest/userguide/reference_available-rotation-templates.html)
+- [EKS protection through Guard Duty announcement](https://aws.amazon.com/about-aws/whats-new/2022/01/amazon-guardduty-elastic-kubernetes-service-clusters/)
+- [Documentation for GuardDuty EKS Protection](https://docs.aws.amazon.com/guardduty/latest/ug/kubernetes-protection.html)
+- [Kubernetes service accounts](https://kubernetes.io/docs/concepts/security/service-accounts/)
+- 
 
