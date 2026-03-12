@@ -105,6 +105,8 @@
   - [Gitlab](https://about.gitlab.com/topics/gitops/)
 - [Argo CD concepts](https://argo-cd.readthedocs.io/en/stable/core_concepts/)
 - [Weave GitOps](https://docs.gitops.weaveworks.org/docs/intro-weave-gitops/)
+- [Services defined in Kubernetes.io](https://kubernetes.io/docs/concepts/services-networking/service/#publishing-services-service-types)
+  - 
 - [CNI - Container network interface](https://github.com/containernetworking/cni)
 - [VPC CNI](https://github.com/aws/amazon-vpc-cni-k8s)
 - [NetworkPolicy](https://kubernetes.io/docs/concepts/services-networking/network-policies/)
@@ -117,4 +119,5 @@
 - [AWS moves away from Redis into Valkey](https://aws.amazon.com/blogs/opensource/why-aws-supports-valkey/)
 - [X-Ray service being deprecated, switching to OpenTelemetry](https://docs.aws.amazon.com/xray/latest/devguide/xray-sdk-migration.html)
 - [Logging with Fargate](https://docs.aws.amazon.com/eks/latest/userguide/fargate-logging.html). It uses Firelens, which runs fluentbit as a sidecar
-- 
+## Day 3 
+- [Operator pattern, useful for defining custom resources](https://kubernetes.io/docs/concepts/extend-kubernetes/operator/)
